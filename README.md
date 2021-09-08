@@ -1,5 +1,10 @@
-### Hi there 👋 
-<img align="right" height="100" width="100" alt="Rafa-yoda" src="https://iili.io/Res2a9.gif">
+### Hi there 👋
+
+<div>
+  
+</div>
+
+
 <div>
   <a href="https://github.com/lailamt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lailamt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -17,16 +22,16 @@
   <img align="center" alt="Laila-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Laila-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Laila-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    
 </div>
   
   ##
  
-<div> 
+<div style="display: flex, justify-content: center"> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lailapmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img height="100" width="100" alt="Rafa-yoda" src="https://iili.io/Res2a9.gif">
  
   ![Snake animation](https://github.com/lailamt/lailamt/blob/output/github-contribution-grid-snake.svg)
  
