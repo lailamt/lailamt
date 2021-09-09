@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<div>
-  <img height="100" width="100" alt="Rafa-yoda" src="https://iili.io/Rk3IKF.gif">
-</div>
-
+## $ Hello World!
+<img align="right" height="100" width="100" alt="Rafa-yoda" src="https://iili.io/Rk3IKF.gif">
 
 <div>
   <a href="https://github.com/lailamt">
